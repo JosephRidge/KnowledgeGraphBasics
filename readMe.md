@@ -1,0 +1,2 @@
+- [IBM knowledge-graph](https://www.ibm.com/think/topics/knowledge-graph)
+- [neo4j knowledge-graph](https://neo4j.com/blog/knowledge-graph/what-is-knowledge-graph/)
